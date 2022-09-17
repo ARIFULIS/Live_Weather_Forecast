@@ -1,6 +1,5 @@
 import json
 import requests
-from fpdf import FPDF
 from flask import Flask, request, render_template
 
 API_KEY = "d108968c1emshf85f6e2bb2d95b0p110589jsn28199a509870"
